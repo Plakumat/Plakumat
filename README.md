@@ -12,8 +12,8 @@
 - 📫 How to reach me **bahadiravci02@gmail.com**
 
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bahadiravci/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@bahadiravci/0" alt="Recent Article 0">
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
