@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [FUPS](https://online.fups.com/)
 
-- 💬 Ask me about **JAMstack, React, Static Site Generators, JAMstack**
+- 💬 Ask me about **Javascript, React, Static Site Generators, JAMstack, Modern Frameworks**
 
 - 📫 How to reach me **bahadiravci02@gmail.com**
 
